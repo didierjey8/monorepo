@@ -1,0 +1,18 @@
+{
+  "name": "EVM similar blockchains",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ethers": "^5.3.1",
+    "express": "^4.17.1",
+    "web3": "^1.3.6"
+  }
+}
